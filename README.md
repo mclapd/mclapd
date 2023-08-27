@@ -1,4 +1,10 @@
-### Hi there 👋
+### Chris Kim's GitHub
+
+I have adapted to rapid technological changes and progressively expanded my technical expertise. 
+Currently, I am dedicated to enhancing my capabilities in AI based automation and web development.
+
+Through these efforts, I aim to broaden my skill set and proactively respond to the evolving landscape, 
+showcasing continual growth and adaptability in the face of change.
 
 <!--
 **mclapd/mclapd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
